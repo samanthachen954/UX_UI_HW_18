@@ -36,7 +36,7 @@
     margin-top: 6px;
 }
 .hitsub {
-    background-color: #aa57e6; 
+    background-color: #425FC5; 
     border: none;
     border-radius: 12px;
     padding: 12px 36px;
@@ -62,7 +62,7 @@
   }
   .UX_research {
         display: flex;
-        background-color: #aa57e6;
+        background-color: #425FC5;
         flex-direction: column;
         justify-content: center;
         height: 240px;
@@ -73,7 +73,7 @@
   }
   .UI_design {
     display: flex;
-    background-color: #aa57e6;
+    background-color: #425FC5;
     flex-direction: column;
     justify-content: center;
     height: 240px;
@@ -84,7 +84,7 @@
   }
   .tools {
     display: flex;
-    background-color: #aa57e6;
+    background-color: #425FC5;
     flex-direction: column;
     justify-content: center;
     height: 240px;
