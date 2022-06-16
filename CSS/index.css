@@ -1,0 +1,112 @@
+.container {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/purpleprofilepic.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin-top: 24px;
+}
+.foot {
+    margin-bottom: 24px;
+}
+.message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.greet {
+    font-size: 64px;
+    margin-bottom: 6px;
+}
+.name {
+    font-size: 48px;
+    margin-top: 6px;
+}
+.hitsub {
+    background-color: #aa57e6; 
+    border: none;
+    border-radius: 12px;
+    padding: 12px 36px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  }
+  .category {
+      display: flex;
+      justify-content: space-evenly;
+      width: 70%;
+  }
+  html {
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+  }
+  .MySkillsHead {
+      text-align: center;
+      font-size: 64px;
+      margin-bottom: 12px;
+  }
+  .UX_research {
+        display: flex;
+        background-color: #aa57e6;
+        flex-direction: column;
+        justify-content: center;
+        height: 240px;
+        width: 300px;
+        padding: 24px;
+        text-align: center;
+        border-radius: 12px;
+  }
+  .UI_design {
+    display: flex;
+    background-color: #aa57e6;
+    flex-direction: column;
+    justify-content: center;
+    height: 240px;
+    width: 300px;
+    padding: 24px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  .tools {
+    display: flex;
+    background-color: #aa57e6;
+    flex-direction: column;
+    justify-content: center;
+    height: 240px;
+    width: 300px;
+    padding: 24px;
+    text-align: center;
+    border-radius: 12px;
+  }
+  .flexContainer {
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 64px;
+  }
+  .my_skills {
+        min-height: 100vh;
+        width: 100%;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/purpleprofilepic.jpg');
+        background-position: center;
+        background-size: cover;
+        position: relative;  
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+  }
